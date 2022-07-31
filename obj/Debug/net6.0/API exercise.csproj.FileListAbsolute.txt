@@ -1,0 +1,21 @@
+C:\Users\61424\source\repos\C++\API exercise\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\61424\source\repos\C++\API exercise\bin\Debug\net6.0\appsettings.json
+C:\Users\61424\source\repos\C++\API exercise\bin\Debug\net6.0\API exercise.exe
+C:\Users\61424\source\repos\C++\API exercise\bin\Debug\net6.0\API exercise.deps.json
+C:\Users\61424\source\repos\C++\API exercise\bin\Debug\net6.0\API exercise.runtimeconfig.json
+C:\Users\61424\source\repos\C++\API exercise\bin\Debug\net6.0\API exercise.dll
+C:\Users\61424\source\repos\C++\API exercise\bin\Debug\net6.0\API exercise.pdb
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\API exercise.csproj.AssemblyReference.cache
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\API exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\API exercise.AssemblyInfoInputs.cache
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\API exercise.AssemblyInfo.cs
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\API exercise.csproj.CoreCompileInputs.cache
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\API exercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\scopedcss\bundle\API exercise.styles.css
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\API exercise.dll
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\refint\API exercise.dll
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\API exercise.pdb
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\API exercise.genruntimeconfig.cache
+C:\Users\61424\source\repos\C++\API exercise\obj\Debug\net6.0\ref\API exercise.dll
